@@ -1,0 +1,18 @@
+{
+  "status":"0",
+  "msg":"success get",
+  "data":[
+    {
+      "id":"3",
+      "name":"lilei",
+      "gender":"male",
+      "age":29
+    },
+    {
+      "id":"4",
+      "name":"hanmeimei",
+      "gender":"female",
+      "age":30
+    }
+  ]
+}
